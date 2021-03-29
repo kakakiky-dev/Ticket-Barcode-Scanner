@@ -1,6 +1,2 @@
-# the-automatic-door-lock-system-uses-rfid-in-the-java-component
+# Ticket Barcode Scanner
 implementation of automatic door locks with rfid in the java component
-
-
-### requirement
-1.JAVA
