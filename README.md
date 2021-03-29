@@ -1,2 +1,3 @@
 # Ticket Barcode Scanner
-implementation of automatic door locks with rfid in the java component
+
+Program yang bisa melakukan scanning pada barcode tiket untuk mengetahui apakah tiket tersebut terdaftar atau tidak. Program ini merupakan pengimplementasian pemrograman berbasis komponen menggunakan bahasa Java.
